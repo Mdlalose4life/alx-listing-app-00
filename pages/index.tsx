@@ -1,11 +1,10 @@
 import Hero from "@/components/hero-section/Hero";
-import Header from "@/components/common/layout/Header";
+import Header from "@/components/layout/Header";
 import TopBook from "@/components/body/top-book";
-import Card from "@/components/common/Card";
+import Card from "@/components/Card";
 import { PROPERTYLISTINGSAMPLE } from "@/constants/index"
 import MoreListing from "@/components/body/more-listing";
-import Footer from "@/components/common/layout/Footer";
-import HorizintalDevider from "@/components/footer-components/Dividers/Horizontal-devider";
+import Footer from "@/components/layout/Footer";
 
 
 const Home: React.FC = () => {
